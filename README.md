@@ -15,6 +15,10 @@
 
 # <div align="center">Diabetes classification using KNN</div>
 
+<div align="center">
+<img src  ="https://github.com/Pradnya1208/Diabetes-classification-using-KNN/blob/main/output/AboutDiabetes.jpg?raw=true" width="100%">
+</div>
+
 ## Objectives:
 In this project our goal is to Predict the onset of diabetes based on diagnostic measures.
 ## Dataset:
